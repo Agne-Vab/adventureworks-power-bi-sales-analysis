@@ -105,5 +105,5 @@ This project uses the AdventureWorks dataset provided by Microsoft, available fo
 
 ## Contact
 
-LinkedIn - [Agnė Vabalaitė](www.linkedin.com/in/agnė-vabalaitė).
+LinkedIn - [Agnė Vabalaitė](https://www.linkedin.com/in/agne-vabalaite).
 Gmail - vab.agne@gmail.com
